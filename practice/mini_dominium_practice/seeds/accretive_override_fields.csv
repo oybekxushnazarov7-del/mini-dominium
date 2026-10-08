@@ -1,0 +1,11 @@
+item_name,override_kind,target_column,data_type
+IC Approval Date,milestone_date,ic_approval_date,date
+Signed PA Date,milestone_date,signed_pa_date,date
+Bonds and Entitlements Date,milestone_date,bonds_entitlements_date,date
+Closing Date,milestone_date,closing_date,date
+Construction Completion Date,milestone_date,construction_completion_date,date
+Perm Financing Date,milestone_date,perm_financing_date,date
+Final Equity Installment Date,milestone_date,final_equity_date,date
+NPV,base_value,npv_usd,number
+Tax Credit Deal,weight_driver,is_tax_credit,text
+Actual Stablized Occupancy Date,attribute,stabilized_occupancy_date,date

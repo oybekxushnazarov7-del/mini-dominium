@@ -1,0 +1,34 @@
+txtid,txtpropid,yardihmy,txtpropname,txtstatus,txtmarket,ingested_at
+101,P-1001,1,Maple Ridge Apartments,Active,Twin Cities,2026-09-01 02:00:00
+102,P-1002,2,Riverbend Senior Living,Active,Austin,2026-09-01 02:00:00
+103,P-1003,3,Solivita Commons,Active,Orlando,2026-09-01 02:00:00
+104,P-1004,4,Oakwood Rehab,Active,Twin Cities,2026-09-01 02:00:00
+105,P-1005,5,Old Mill Lofts,Inactive,Dallas,2026-09-01 02:00:00
+106,P-1006,6,Lakeside Townhomes,Active,Orlando,2026-09-01 02:00:00
+107,P-1007,7,Willow Creek Family,Active,Phoenix,2026-09-01 02:00:00
+091,P-0991,3,Solivita Commons (old phase record),Inactive,Orlando,2026-09-01 02:00:00
+092,P-1004,0,Oakwood Rehab - dup,Inactive,Twin Cities,2026-09-01 02:00:00
+0,P-0000,0,TEMPLATE ROW,Active,,2026-09-01 02:00:00
+,,,,,,2026-09-01 02:00:00
+101,P-1001,1,Maple Ridge Apartments,Active,Twin Cities,2026-09-08 02:00:00
+102,P-1002,2,Riverbend Senior Living,Active,Austin,2026-09-08 02:00:00
+103,P-1003,3,Solivita Commons,Active,Orlando,2026-09-08 02:00:00
+104,P-1004,4,Oakwood Rehab,Active,Twin Cities,2026-09-08 02:00:00
+105,P-1005,5,Old Mill Lofts,Inactive,Dallas,2026-09-08 02:00:00
+106,P-1006,6,Lakeside Townhomes,Active,Orlando,2026-09-08 02:00:00
+107,P-1007,7,Willow Creek Family,Active,Phoenix,2026-09-08 02:00:00
+091,P-0991,3,Solivita Commons (old phase record),Inactive,Orlando,2026-09-08 02:00:00
+092,P-1004,0,Oakwood Rehab - dup,Inactive,Twin Cities,2026-09-08 02:00:00
+0,P-0000,0,TEMPLATE ROW,Active,,2026-09-08 02:00:00
+,,,,,,2026-09-08 02:00:00
+101,P-1001,1,Maple Ridge Apartments,Active,Twin Cities,2026-09-15 02:00:00
+102,P-1002,2,Riverbend Senior Living,Active,Austin,2026-09-15 02:00:00
+103,P-1003,3,Solivita Commons,Active,Orlando,2026-09-15 02:00:00
+104,P-1004,4,Oakwood Rehab,Active,Twin Cities,2026-09-15 02:00:00
+105,P-1005,5,Old Mill Lofts,Inactive,Dallas,2026-09-15 02:00:00
+106,P-1006,6,Lakeside Townhomes,Active,Orlando,2026-09-15 02:00:00
+107,P-1007,7,Willow Creek Family,Active,Phoenix,2026-09-15 02:00:00
+091,P-0991,3,Solivita Commons (old phase record),Inactive,Orlando,2026-09-15 02:00:00
+092,P-1004,0,Oakwood Rehab - dup,Inactive,Twin Cities,2026-09-15 02:00:00
+0,P-0000,0,TEMPLATE ROW,Active,,2026-09-15 02:00:00
+,,,,,,2026-09-15 02:00:00

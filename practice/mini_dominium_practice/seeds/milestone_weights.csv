@@ -1,0 +1,8 @@
+milestone_order,milestone_name,date_column,cumulative_pct_tax_credit,cumulative_pct_non_tax_credit
+1,IC Approval,ic_approval_date,0.01,0.01
+2,Signed PA,signed_pa_date,0.05,0.1
+3,Bonds & Entitlements,bonds_entitlements_date,0.15,0.2
+4,Closing,closing_date,0.5,0.6
+5,Construction Completion,construction_completion_date,0.8,0.85
+6,Perm Financing,perm_financing_date,0.95,0.95
+7,Final Equity Installment,final_equity_date,1.0,1.0

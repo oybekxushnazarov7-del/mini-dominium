@@ -1,0 +1,42 @@
+{
+  "procore_projects_raw_rows": 159,
+  "procore_projects_current": 5,
+  "procore_projects_deleted_stale": 1,
+  "procore_change_events_raw_rows": 584,
+  "procore_change_events_distinct_ids": 36,
+  "procore_change_events_current": 30,
+  "procore_change_events_stale_or_deleted": 6,
+  "procore_change_events_null_key_rows": 3,
+  "procore_fanout_factor": 16.1,
+  "procore_change_event_daily_rows": 442,
+  "yardi_property_full_load_rows": 6,
+  "yardi_property_ct_rows": 8,
+  "yardi_property_current": 6,
+  "yardi_property_3_current_units": 224,
+  "historical_yardi_property_rows_excluding_beforeimage": 11,
+  "yardi_unit_current": 48,
+  "pdb_property_raw_rows": 33,
+  "pdb_property_resolved_rows": 7,
+  "workfront_program_raw_rows": 80,
+  "workfront_program_current": 8,
+  "accretive_deals": 7,
+  "accretive_overrides_valid_rows": 6,
+  "accretive_overrides_rows_in_sheet": 9,
+  "accretive_overrides_unknown_item_rows": 1,
+  "accretive_overrides_missing_program_id": 1,
+  "units_per_property_current": {
+    "1": 8,
+    "2": 8,
+    "3": 8,
+    "4": 8,
+    "6": 8,
+    "7": 8
+  },
+  "occupied_units_per_property_current": {
+    "1": 6,
+    "2": 4,
+    "3": 5,
+    "4": 5,
+    "6": 2
+  }
+}

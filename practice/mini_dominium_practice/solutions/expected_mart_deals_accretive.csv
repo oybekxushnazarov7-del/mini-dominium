@@ -1,0 +1,8 @@
+workfront_program_id,deal_name,chosen_proforma_type,npv_calculated,milestone_order_calculated,pct_calculated,accretive_value_calculated,npv_final,is_tax_credit_final,milestone_order_final,pct_final,accretive_value_final,overrides_applied
+5f1a9c0b2d3e4f5061728394a5b6c7d8,Maple Ridge Apartments,IC Approval Model,14000000,3,0.15,2100000.0,14000000,Y,3,0.15,2100000.0,0
+6a2b8d1c3e4f506172839405b6c7d8e9,Riverbend Senior Living,Live Model,9500000,4,0.6,5700000.0,17500000,N,4,0.6,10500000.0,1
+7b3c9e2d4f50617283940516c7d8e9fa,Solivita Commons,Closing Model,11000000,6,0.95,10450000.0,11000000,Y,6,0.95,10450000.0,1
+8c4daf3e50617283940516a7d8e9fa0b,Willow Creek Family,IC Approval Model,19750000,1,0.01,197500.0,19750000,N,1,0.01,197500.0,1
+9d5eb04f617283940516a7b8e9fa0b1c,Pecan Park Village,Closing Model,21000000,5,0.85,17850000.0,21000000,N,6,0.95,19950000.0,1
+ae6fc15072839405a6b7c8d9fa0b1c2d,Harbor View Seniors,IC Approval Model,9250000,2,0.05,462500.0,9250000,Y,2,0.05,462500.0,0
+c081e372940516a7b8c9d0e1f2a3b4c5,Mariposa Gardens,Live Model,7000000,4,0.5,3500000.0,7000000,Y,4,0.5,3500000.0,0
